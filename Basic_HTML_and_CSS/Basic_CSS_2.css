@@ -1,0 +1,12 @@
+p {
+		color: maroon;
+		background: orange;
+		font-weight: bold;
+		text-align: center;
+		font-size: large;
+		text-decoration: italic;
+		font: impact;
+}
+p {
+	text-shadow: 2px 2px 5px red;
+}
